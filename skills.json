@@ -1,9 +1,101 @@
 [
-    "Java",
-    "Python",
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "SQL",
-    "testing"
+
+    {
+        "name": "Qutaiba Aldandachi",
+        "contactInformation": {
+          "address": "Karlskrona, 37129 Sverige",
+          "phone": "0766400078",
+          "email": "qutaebadandashi@gmail.com",
+          "linkedin": "linkedin.com/in/qutaiba-al-dandachi",
+          "github": "github.com/Qutaeba89"
+        },
+        "objective": "Aspiring Java Developer with a solid foundation in object-oriented programming, currently studying Java development in Värnamo, Sweden. Seeking a practice position to apply my technical skills and gain hands-on experience in Java and web development, with a strong commitment to learning and contributing effectively to a team.",
+        "skills": {
+          "programmingLanguages": ["Java", "Python", "HTML", "CSS", "JavaScript", "SQL"],
+          "frameworksAndTools": ["Java Swing", "Java Spring Boot", "Microsoft Office", "Linux", "Networking", "Cloud Computing (basic knowledge)"],
+          "languages": {
+            "Swedish": "Very Good",
+            "English": "Very Good",
+            "Arabic": "Excellent"
+          },
+          "softSkills": ["Problem-solving", "Team collaboration", "Customer support", "Adaptability", "Technical support"]
+        },
+        "technicalExperience": [
+          {
+            "role": "IT Technical Support Intern",
+            "organization": "Dar al-Alsson Institute, Damascus",
+            "period": "Jan 2008 - Mar 2013",
+            "responsibilities": [
+              "Provided technical support in an Agile environment, managing hardware and software issues for improved operational efficiency.",
+              "Performed system upgrades, troubleshooting, and hardware replacements, ensuring systems operated reliably.",
+              "Resolved network connectivity issues and maintained up-to-date logs on daily server tasks, supporting smooth office operations."
+            ]
+          },
+          {
+            "role": "Cyber Cafe Attendant",
+            "organization": "Audio Net, Damascus",
+            "period": "Jan 2008 - Jan 2009",
+            "responsibilities": [
+              "Managed technical support and customer service for a busy internet café, troubleshooting network and hardware issues.",
+              "Developed skills in data entry, analysis, and interpersonal communication while assisting customers with technical needs."
+            ]
+          }
+        ],
+        "workExperience": [
+          {
+            "role": "Nurse Assistant",
+            "organization": "Home Service, Karlskrona",
+            "period": "Mar 2018 - Current",
+            "responsibilities": [
+              "Assisted patients with daily care tasks, applied organizational skills to manage patient schedules, and provided consistent support during additional shifts.",
+              "Demonstrated adaptability, communication, and time-management skills in a high-demand healthcare environment."
+            ]
+          },
+          {
+            "role": "Cashier",
+            "organization": "La Roche Restaurant, Cairo",
+            "period": "Jan 2014 - Aug 2014",
+            "responsibilities": [
+              "Delivered excellent customer service, assisted with inventory, and resolved customer inquiries to support daily operations.",
+              "Encouraged customer satisfaction and repeat business through attentive service and positive interactions."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "Java Development",
+            "institution": "Värnamo, Sweden",
+            "period": "2024 - Current",
+            "details": "Currently studying Java programming and software development, with a focus on object-oriented programming, Java, SQL, Java Swing, HTML, CSS, JavaScript, and Java Spring Boot."
+          },
+          {
+            "degree": "No Degree: Computer Science And Programming (CS50)",
+            "institution": "Harvard University (Online)",
+            "period": "March 2023 - Aug 2023"
+          },
+          {
+            "degree": "No Degree: Networking, Cloud Computing And Linux",
+            "institution": "Online Courses - Sweden",
+            "period": "2022 - 2022"
+          },
+          {
+            "degree": "Degree D: Python",
+            "institution": "Vuxenutbildning Karlskrona",
+            "period": "Aug 2017 - Jan 2018"
+          },
+          {
+            "degree": "A++: Learning Software And Hardware",
+            "institution": "Russian Cultural Center - Syria",
+            "period": "Jan 2006 - May 2006"
+          }
+        ],
+        "projectsAndAccomplishments": [
+          "IT Troubleshooting & Technical Support: Developed skills in diagnosing and resolving IT issues, including network and system troubleshooting.",
+          "Programming and Software Development: Applied knowledge of Java and Python through coursework and self-directed projects, including building simple applications and tools.",
+          "Certifications and Self-Study: Completed online certifications to broaden knowledge in networking, cloud computing, and Linux fundamentals."
+        ],
+        "additionalInformation": "With a passion for IT and programming, I am dedicated to continuous learning and self-improvement. My studies in Java and web development equip me with a solid foundation, and I am eager to apply my knowledge in a hands-on environment. I aim to contribute meaningfully to a supportive team while advancing my technical skills and practical understanding of software development."
+      }
+      
+
 ]
